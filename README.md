@@ -38,4 +38,4 @@ Most content was added in 2019 and 2020.
 Common genres include Dramas, International Movies, and Comedies.
 Most movies have a duration of 80-100 minutes.
 
-GitHub: https://github.com/muskan-003-da/netflix-analysis
+GitHub: https://github.com/muskan-003-da/netflix-titles-analysis
